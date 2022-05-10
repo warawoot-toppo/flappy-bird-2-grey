@@ -1,5 +1,5 @@
 # Flappy bird project
----
+
 ![icon](./img/icon.png)
 ## Required
 - Python
@@ -14,7 +14,7 @@
 - [ ] score
 
 ## Warning
-- Please don't forget to wear headphone.
+- Please don't forget to wear your headphone.
 - Don't open the speaker when you playing this game.
 
 ## Big Thanks
